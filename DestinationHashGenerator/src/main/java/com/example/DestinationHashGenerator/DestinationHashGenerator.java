@@ -15,7 +15,7 @@ public class DestinationHashGenerator {
 
     public static void main(String[] args) {
         if (args.length != 2) {
-            System.out.println("Usage: java -jar DestinationHashGenerator.jar <PRN Number> <path to json file>");
+            System.out.println("Usage:- java -jar DestinationHashGenerator.jar <PRN Number> <path to json file>");
             return;
         }
 
